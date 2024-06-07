@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29bc8131.css",
+    "main.js": "/static/js/main.f97e95c2.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Password.png": "/static/media/Password.8ba950e0ebc893d21578.png",
+    "static/media/Shopit.png": "/static/media/Shopit.e7e5ba7467880c8e1256.png",
+    "static/media/RZpay.png": "/static/media/RZpay.9447560f3d7a3f33aa63.png",
+    "static/media/RA2111003030303_Shivang Sharma.pdf": "/static/media/RA2111003030303_Shivang Sharma.f9787fb95a3d7fcfccfe.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Code Keep.png": "/static/media/Code Keep.2c7f408d7172dc56a481.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Logo.png": "/static/media/Logo.e397fc35281673eca7dd.png",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
+    "main.f97e95c2.js.map": "/static/js/main.f97e95c2.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29bc8131.css",
+    "static/js/main.f97e95c2.js"
+  ]
+}
